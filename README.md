@@ -4,7 +4,7 @@ Firstly, you need to import dataset attached.
 
 Then running via MySQL, MySQL Workbench is recommended. 
 
-The data cleaning process contains following steps:
+The data cleansing process contains following steps:
 
 1. Remove Deplicates
 
